@@ -15,7 +15,7 @@ export class OrderDetailsService {
       foodName:"LONG-RANGE ROCKET! Rishad score a screamer, and Serigo provides the assist. We are loving this teamwork! Full time GKFC 1-1 AFC ",
       foodDetails:"Photocredits : Justin V Jose 3/12/2024",
       
-      foodImg:"../../../assets/img/Football-1.jpg"
+      foodImg:"../assets/img/Football-1.jpg"
     },
     {
       id:2,

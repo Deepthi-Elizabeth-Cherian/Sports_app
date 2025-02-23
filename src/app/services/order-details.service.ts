@@ -39,7 +39,7 @@ export class OrderDetailsService {
       id:5,
       foodName:"Malappuram FC beat Forca Kochi in Super League Kerala opener. Malappuram FC 2-0 Forca Kochi FC",
       foodDetails:"Photocredits : Justin V Jose 07/08/2024",
-      foodImg:"src/assets/img/Football-5.JPG"
+      foodImg:"assets/img/Football-5.JPG"
     }
   ]
 

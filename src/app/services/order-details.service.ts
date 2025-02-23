@@ -21,19 +21,19 @@ export class OrderDetailsService {
       id:2,
       foodName:"KBFC 0-3 MBSG Highlights, ISL 2024-25: MacLaren scores brace as Mohun Bagan beats Kerala Blasters ",
       foodDetails:"Photocredits : Krishnaprasad 2/15/2025",
-      foodImg:"../../../assets/img/Football-2.jpeg"
+      foodImg:"assets/img/Football-2.jpeg"
     },
     {
       id:3,
       foodName:"Kerala maintain winning streak, kerala book Santosh Trophy 2024-25 quarter-final spot ",
       foodDetails:"Photocredits :  Justin V Jose 11/22/2024",
-      foodImg:"../../../assets/img/Football-3.jpg"
+      foodImg:"assets/img/Football-3.jpg"
     },
     {
       id:4,
       foodName:"ISL 2024-25: Mendez scores brace as Bengaluru FC beats Kerala Blasters 3-1 to extend lead at top of standings",
       foodDetails:"Photocredits : Krishnaprasad 10/26/2024",
-      foodImg:"../../../assets/img/Football-4.jpg"
+      foodImg:"assets/img/Football-4.jpg"
     },
     {
       id:5,
